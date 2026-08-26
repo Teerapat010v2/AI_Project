@@ -1,0 +1,27 @@
+{
+  "label_dict": {
+    "0": "Captun",
+    "1": "Dream",
+    "2": "Gun",
+    "3": "Max",
+    "4": "Rung"
+  },
+  "optimal_threshold": 89.5,
+  "model_file": "Project_Ai_model_v2.yml",
+  "training_date": "2026-08-26 14:26",
+  "total_train_samples": 17712,
+  "total_test_samples": 493,
+  "best_f1_score": 0.8264,
+  "best_accuracy": 0.9899,
+  "person_names": [
+    "Captun",
+    "Dream",
+    "Gun",
+    "Max",
+    "Rung"
+  ],
+  "target_size": [
+    120,
+    120
+  ]
+}
